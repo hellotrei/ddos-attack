@@ -1,29 +1,25 @@
-# DDos-Attack 
+# DDos-Attack
+
 ### What Is A DDos-Attack
 
-### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
+### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable
+
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
-### Dwonload&Install
+## Getting Started
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+1. `git clone https://github.com/hellotrei/ddos-attack.git`
+2. `cd ddos-attack`
+3. `chmod +x ddos-attack.py`
+4. `python ddos-attack.py`
 
-### cd DDos-Attack
+## A Kali Linux operating system. We recommend :
 
-### chmod +x ddos-attack.py
-
-### python ddos-attack.py
-
-### ScreenShot 
-
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
-
-### YouTube channel
-
-https://www.youtube.com/c/HA-MRX
-
-### Video Tutorial
-
-https://www.youtube.com/watch?v=-e3Iia_P7rA
-
+- Kali Linux 2 or Kali 2016.1 rolling
+- Cyborg
+- Parrot
+- BackTrack
+- Backbox
+- Android - Trimix
+- Iphone - python ai
